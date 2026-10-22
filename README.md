@@ -82,5 +82,7 @@ Lizenzen auf Anfrage.
 
 Entwickelt von J.Lühn
 
-<sub>Pioneer DJ, CDJ, DJM, rekordbox und Pro DJ Link sind Marken ihrer jeweiligen Inhaber. grandMA2 ist eine Marke der
-MA Lighting International GmbH. ShowLink ist ein unabhängiges Produkt und steht in keiner Verbindung zu diesen Unternehmen.</sub>
+<sub>CDJ, DJM, rekordbox und PRO DJ LINK sind Marken oder eingetragene Marken der AlphaTheta Corporation.
+Pioneer DJ ist eine Marke der Pioneer Corporation und wird von AlphaTheta unter Lizenz verwendet.
+grandMA2 ist eine Marke der MA Lighting International GmbH. ShowLink ist ein unabhängiges Produkt und wird von
+AlphaTheta, Pioneer und MA Lighting weder hergestellt noch unterstützt.</sub>
