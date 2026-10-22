@@ -1,12 +1,12 @@
-# ShowLink
+# ShowRelay
 
 **Live-Daten aus dem Pioneer Pro DJ Link Netzwerk – Waveforms, Timecode und Tempo-Sync für Licht, Video und Bühne.**
 
-ShowLink verbindet sich mit DJM-Mixern und CDJ-Playern im Pro DJ Link Netzwerk und stellt alle Informationen der
-laufenden Show in Echtzeit dar: Track, Tempo, Position, Waveform und On-Air-Status jedes Decks. Daraus erzeugt ShowLink
+ShowRelay verbindet sich mit DJM-Mixern und CDJ-Playern im Pro DJ Link Netzwerk und stellt alle Informationen der
+laufenden Show in Echtzeit dar: Track, Tempo, Position, Waveform und On-Air-Status jedes Decks. Daraus erzeugt ShowRelay
 Timecode, MIDI Clock, OSC und Tempo-Sync für Lichtpulte – und bringt einen DJ-Timer fürs Tablet gleich mit.
 
-[**→ Aktuelle Version herunterladen**](https://github.com/jstnlhn/ShowController/releases/latest)
+[**→ Aktuelle Version herunterladen**](https://github.com/jstnlhn/ShowRelay/releases/latest)
 
 ---
 
@@ -69,13 +69,13 @@ Timecode, MIDI Clock, OSC und Tempo-Sync für Lichtpulte – und bringt einen DJ
 - Java ist im Setup enthalten, es muss nichts zusätzlich installiert werden
 
 ## Installation
-1. `ShowLink-Setup-<Version>.exe` unter [Releases](https://github.com/jstnlhn/ShowController/releases/latest) herunterladen und ausführen.
+1. `ShowRelay-Setup-<Version>.exe` unter [Releases](https://github.com/jstnlhn/ShowRelay/releases/latest) herunterladen und ausführen.
 2. Im Setup die Firewall-Freigabe aktiviert lassen.
-3. ShowLink starten und oben rechts den Netzwerkadapter wählen, der mit dem Switch verbunden ist.
+3. ShowRelay starten und oben rechts den Netzwerkadapter wählen, der mit dem Switch verbunden ist.
 
 ## Lizenz
-ShowLink kann **14 Tage kostenlos getestet** werden. Danach ist ein Lizenzschlüssel erforderlich
-(SETUP → LIZENZ). Nach der Aktivierung läuft ShowLink bis zu 30 Tage ohne Internetverbindung.
+ShowRelay kann **14 Tage kostenlos getestet** werden. Danach ist ein Lizenzschlüssel erforderlich
+(SETUP → LIZENZ). Nach der Aktivierung läuft ShowRelay bis zu 30 Tage ohne Internetverbindung.
 Lizenzen auf Anfrage.
 
 ---
@@ -84,5 +84,5 @@ Entwickelt von J.Lühn
 
 <sub>CDJ, DJM, rekordbox und PRO DJ LINK sind Marken oder eingetragene Marken der AlphaTheta Corporation.
 Pioneer DJ ist eine Marke der Pioneer Corporation und wird von AlphaTheta unter Lizenz verwendet.
-grandMA2 ist eine Marke der MA Lighting International GmbH. ShowLink ist ein unabhängiges Produkt und wird von
+grandMA2 ist eine Marke der MA Lighting International GmbH. ShowRelay ist ein unabhängiges Produkt und wird von
 AlphaTheta, Pioneer und MA Lighting weder hergestellt noch unterstützt.</sub>
